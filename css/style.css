@@ -1,0 +1,1015 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header {
+    background-image: url(../img/9210966a-c260-4a5c-9009-467db9b1ba5b.png);
+    width: 100%;
+    height: 1000px;
+    left: 0px;
+    top: 1263px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.navbar {
+    height: 92px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+}
+.navbar__logo {
+    position: absolute;
+    width: 135px;
+    height: 49px;
+    left: 42px;
+    top: 23px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.navbar__menu {
+    width: 851px;
+    height: 86px;
+    filter: drop-shadow(0px -6px 4px rgba(0, 0, 0, 0.25));
+    font-family: 'Montserrat';
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    justify-content: space-evenly;
+    margin: auto;
+}
+.nav-bar__line {
+    width: 1340px;
+    height: 6px;
+    background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 97.57%);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    backdrop-filter: blur(31px);
+    border-radius: 74px;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: #FFFFFF;
+}
+.header__title {
+    height: 156px;
+    font-family: 'Montserrat';
+    margin-top: 223px;
+    font-size: 75px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px -44px 4px rgb(255 255 255 / 25%);
+    justify-content: center;
+}
+.circle-arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 90px;
+    height: 67px;
+    background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 97.57%);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    backdrop-filter: blur(31px);
+    border-radius: 74px;
+    margin: auto;
+    margin-top: 325px;
+}
+
+.about-miclos {
+    width: 100%;
+    height: 273px;
+    background: linear-gradient(287.01deg, #DA3EB8 0%, #DA3EB8 0.01%, #635EBE 97.57%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(82px);
+    border-radius: 74px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: -111px;
+}
+.about-miclos__image {
+    width: 170px;
+    height: 168px;
+    filter: drop-shadow(7px 8px 20px rgba(255, 255, 255, 0.49));
+    margin-left: -215px;
+}
+.about-miclos__article {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.about-miclos__text {
+    margin-bottom: 33px;
+    margin-left: 50px;
+}
+.about-miclos__text__first {
+    margin-left: -1402px;
+}
+.about-miclos__text__second {
+    margin-left: -615px;
+}
+.about-miclos__text__last {
+    margin-left: 220px;
+    padding-top: -41px;
+}
+
+.background-portfolio {
+    background: linear-gradient(270deg, #9858CA -2.36%, rgba(128, 106, 237, 0.66) 57.88%, #FFC47F 100%);
+    width: 100%;
+    height: 1000px;
+    left: 0px;
+    top: 1263px;
+    background-size: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;justify-content: center;
+}
+
+.wrapper {
+    width: 100%;
+    height: 158px;
+    background: linear-gradient(287.01deg, #0028FF 0%, rgba(20, 35, 104, 0.15) 0.01%, #CC4BB1 97.57%);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    backdrop-filter: blur(82px);
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: -111px;
+    border-radius: 74px;
+}
+.about-Ludmila {
+    background-image: url(../img/Rectangle8.png);
+    width: 100%;
+    height: 1100px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: -65px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+
+.about-Ludmila__container {
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    padding: 30px;
+}
+.about-Ludmila__photo {
+    width: 298px;
+    height: 310px;
+    border-radius: 38px;
+    margin-top: -320px;
+    margin-left: 90px;
+}
+.about-Ludmila__img {
+    width: 100%;
+    height: 100%;
+}
+.about-Ludmila__article {
+    width: 800px;
+    background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0) 97.57%);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    backdrop-filter: blur(31px);
+    border-radius: 74px;
+    margin-top: -295px;
+    margin-left: 614px;
+}
+.about-Ludmila__text {
+    padding: 25px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.about-Ludmila__title {
+    width: 417px;
+    height: 49px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.about-Ludmila__about__title {
+    width: 727px;
+    height: 29px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.about-Ludmila__paragraph {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.about-Ludmila__button {
+    border-radius: 40px;
+    margin-left: 40px;
+    background-color: #9858CA;
+    padding: 0px 10px;
+}
+.portfolio-button {
+    background-color: #6b3296;
+    color: #FFFFFF;
+    padding: 0px 10px;
+    font-family: 'Montserrat';
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 30px;
+    width: 140px;
+}
+.portfolio-button:hover {
+    background-color: #ac84cb;
+    color: #000000;
+}
+.about-Ludmila__expirience {
+    padding: 30px;
+    font-family: 'Montserrat';
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    max-height: 300px;
+    margin-top: -400px;
+    margin-left: 100px;
+}
+.about-Ludmila__expirience__title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: -310px;
+    margin-left: 100px;
+    margin-right: -157px;
+}
+.about-Ludmila__expirience__container {
+    background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0) 97.57%);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    backdrop-filter: blur(31px);
+    border-radius: 74px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-left: -80px;
+}
+.app {
+    margin: -20px;
+}
+.circle__title {
+    color: #FFFFFF;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+}
+.education {
+    color: #FFFFFF;
+    margin-right: 40px;
+}
+.education__title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+}
+.place-of-study {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.direction-of-study {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+.more {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 112px;
+    margin-bottom: -214px;
+    background-color: #9858CA;
+    border-radius: 10px;
+    width: auto;
+    color: #FFFFFF;
+    height: 40px;
+}
+
+section {
+    overflow: hidden;
+}
+section .card .image {
+    height: 300px;
+    width: 300px;
+    padding: 3px;
+}
+section .card .image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.card {
+    position: relative;
+    background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 97.57%);
+    box-shadow: 0px 13px 81px 25px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(12.5px);
+    border-radius: 20px;
+    margin: 20px 0;
+    width: 450px;
+    float: left;
+    margin: 100px;
+    margin-bottom: 30px;
+    width: auto;
+    max-width: 100%;
+}
+.card::before {
+    content: "";
+    position: absolute;
+    height: 55%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.664);
+    border-radius: 20px 20px 0 0;
+}
+.card:hover {
+    background-color: #ffffff98;
+    transition: all 0.3s ease-in-out;
+}
+
+.card .card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    position: relative;
+    z-index: 100;
+}
+.name-profession {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+}
+.card .media-icons {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+.card .media-icons i {
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+    font-size: 40px;
+}
+.card .media-icons i:hover {
+    opacity: 1;
+}
+.card .name-profession {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    color: #333;
+}
+.name-profession .profession {
+    font-size: 20px;
+    margin-top: 5px;
+}
+.card .button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.card .button a {
+    background-color: rgb(141, 115, 255);
+    padding: 8px 22px;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+.button a:hover {
+    background-color: rgb(112, 33, 173);
+    color: #FFFFFF;
+}
+.visitSite {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+}
+.section {
+    background: linear-gradient(270deg, #9858CA -2.36%, rgba(128, 106, 237, 0.66) 57.88%, #FFC47F 100%);
+}
+@media (min-width: 600px) and (max-width:950px) {
+    .navbar__menu {
+        visibility: hidden;
+        width: 0px;
+        line-height: 0;
+        height: 0px;
+        padding: 0px;
+        
+    }
+    .about-Ludmila__article {
+        margin-left: 466px;
+        margin-top: 100px;
+    }
+    .nav-bar__line {
+        width: 100%;
+    }
+    .visually {
+        width: 0px;
+        height: 0px;
+        margin: 0px;
+        padding: 0px;
+        visibility: hidden;
+    }
+    .about-Ludmila {
+        background-size: cover;
+    }
+    .about-Ludmila__article {
+        margin-left: 57px;
+        margin-top: 131px;
+    }
+    .about-Ludmila__photo {
+        width: 200px;
+        height: 200px;
+        margin-top: -170px;
+        margin-bottom: -100px;
+    }
+    .about-Ludmila__expirience {
+        padding: 30px;
+        font-family: 'Montserrat';
+        margin-top: -300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: nowrap;
+        max-height: 100%;
+        width: 100%;
+        margin-top: -298px;
+        margin-left: 147px;
+        padding-right: 0px;
+    }
+}
+@media (min-width: 951px) and (max-width:1134px) {
+    
+    .about-Ludmila__article {
+        margin-left: 466px;
+        margin-top: 100px;
+    }
+    .nav-bar__line {
+        width: 100%;
+    }
+    .visually {
+        width: 0px;
+        height: 0px;
+        margin: 0px;
+        padding: 0px;
+        visibility: hidden;
+    }
+    .about-Ludmila {
+        background-size: cover;
+    }
+    .about-Ludmila__article {
+        margin-left: 57px;
+        margin-top: 131px;
+    }
+    .about-Ludmila__photo {
+        width: 200px;
+        height: 200px;
+        margin-top: -170px;
+        margin-bottom: -100px;
+    }
+    .about-Ludmila__expirience__title {
+        display: flex;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+        margin-top: -578px;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+    .about-Ludmila__expirience {
+        padding: 30px;
+        font-family: 'Montserrat';
+        margin-top: -300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: nowrap;
+        max-height: 100%;
+        width: 100%;
+        margin-top: -298px;
+        margin-left: 147px;
+        padding-right: 0px;
+    }
+    .about-Ludmila__expirience__container {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0) 97.57%);
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 43px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .app {
+        margin: -5px;
+    }
+    .circle {
+        width: 130px;
+        height: 130px;
+    }
+    .circle__title {
+        color: #FFFFFF;
+        margin-top: -13px;
+        margin-bottom: 50px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;       
+    }
+    .education {
+        color: #FFFFFF;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .education__title {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;
+        text-transform: uppercase;
+    }
+    .place-of-study {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+        margin-bottom: 10px;
+    }
+    .direction-of-study {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+    }
+}
+
+@media (min-width: 1135px) and (max-width:1695px) {
+    .visually2 {
+        width: 0px;
+        height: 0px;
+        margin: 0px;
+        padding: 0px;
+        visibility: hidden;
+    }
+    .nav-bar__line {
+        width: 100%;
+    }
+    .about-Ludmila {
+        background-size: cover;
+    }
+    .about-Ludmila__article {
+        margin-left: 466px;
+    }
+    .about-Ludmila__expirience__title {
+        display: flex;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+        margin-top: -578px;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+    .about-Ludmila__expirience {
+        padding: 30px;
+        font-family: 'Montserrat';
+        margin-top: -300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: nowrap;
+        max-height: 100%;
+        width: 100%;
+        margin-top: -441px;
+        margin-left: 100px;
+        padding-right: 0px;
+    }
+    .about-Ludmila__expirience__container {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0) 97.57%);
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 43px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .app {
+        margin: -5px;
+    }
+    .circle {
+        width: 130px;
+        height: 130px;
+    }
+    .circle__title {
+        color: #FFFFFF;
+        margin-top: -13px;
+        margin-bottom: 50px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;       
+    }
+    .education {
+        color: #FFFFFF;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .education__title {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;
+        text-transform: uppercase;
+    }
+    .place-of-study {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+        margin-bottom: 10px;
+    }
+    .direction-of-study {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+    }
+}
+
+@media (min-width: 330px) and (max-width:500px) {
+   
+   .header {
+    background-image: url(../img/завантаження\(3\)1.png);
+    width: 100%;
+    height: 1100px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+    .navbar__menu {
+        visibility: hidden;
+    }
+    .nav-bar__line {
+        width: 371px;
+    }
+    .header__title {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 83px;
+        margin-top: 240px;
+    }
+    .circle-arrow {
+        width: 60px;
+        height: 42.74px;
+    }
+    .arrow {
+        height: 28px;
+    }
+    .about-miclos {
+        height: 275px;
+        background: linear-gradient(287.01deg, #DA3EB8 0%, #DA3EB8 0.01%, #635EBE 97.57%);
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        margin-top: -230px;
+        border-radius: 44px;
+    }
+    .about-miclos__image {
+        width: 106px;
+        height: 106px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .about-miclos__article {
+        flex-direction: column;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        text-align: center;
+        color: #FFFFFF;
+        text-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+        display: flex;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+    .about-miclos__text {
+        margin-bottom: 33px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .about-miclos__text__first {
+        margin-left: 0px;
+    }
+    .about-miclos__text__second {
+        margin-left: 0px;
+    }
+    .about-miclos__text__last {
+        margin-left: 0px;
+        padding-top: -41px;
+    }
+    .portfolio-title {
+        width: 328px;
+        height: 43px;
+        background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 97.57%);
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 74px; 
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 44px;
+        text-align: center;
+        margin-top: 31px;
+    }
+    .navbar__menu {
+        width: 0px;
+    }
+    .wrapper {
+        margin-top: -225px;
+        background: linear-gradient(287.01deg, #0028FF 0%, rgba(20, 35, 104, 0.15) 0.01%, #CC4BB1 97.57%);
+    }
+    .about-Ludmila {
+        background-image: url(../img/Rectangle17.png);
+        width: auto;
+        height: 1500px;
+        background-repeat: no-repeat;
+        background-size: 101%;
+        margin-top: -65px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: nowrap;
+    }
+    .about-Ludmila__article {
+        background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0) 97.57%);
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        margin: auto;
+        margin-top: -295px;
+        width: 370px;
+        border-radius: 59px;
+    }
+    .about-Ludmila__photo {
+        position: relative;
+        width: 98px;
+        height: 98px;
+        border-radius: 24px;
+        margin: auto;
+        margin-top: -320px;
+        z-index: 1;
+        top: -287px;
+    }
+    .about-Ludmila__container {
+        color: #FFFFFF;
+        font-family: 'Montserrat', sans-serif;
+        padding: 0px;
+    }
+    .about-Ludmila__title {
+        width: 250px;
+        height: 29px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .about-Ludmila__about__title {
+        display: flex;
+        width: 308px;
+        height: 48px;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+        text-align: start;
+        margin-top: 50px;
+    }
+    .about-Ludmila__text {
+        margin-top: 21px;
+        padding: auto;
+    }
+    .about-Ludmila__paragraph {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .background-portfolio {
+        background: linear-gradient(270deg, #9858CA -2.36%, rgba(128, 106, 237, 0.66) 57.88%, #FFC47F 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    section .card .image {
+        width: 200px;
+        height: 200px;
+        padding: 3px;
+    }
+    .card {
+        position: relative;
+        background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 97.57%);
+        box-shadow: 0px 13px 81px 25px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+        margin: 15px 0;
+        width: 300px;
+        margin: 50px;
+        margin-bottom: 5px;
+        max-width: 100%;
+    }
+    .visually {
+        visibility: hidden;
+        width: 0px;
+        height: 0px;
+        margin: 0px;
+        padding: 0px;
+    }
+    .name-profession {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 10px;
+    }
+    .name-profession .profession {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .card .button a {
+        background-color: rgb(141, 115, 255);
+        padding: 5px 10px;
+        border-radius: 20px;
+        transition: all 0.3s ease;
+    }
+    .about-Ludmila__expirience__title {
+        display: flex;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+        margin-top: -578px;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+    .about-Ludmila__expirience {
+        padding: 30px;
+        font-family: 'Montserrat';
+        margin-top: -300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: nowrap;
+        max-height: 100%;
+        margin-top: -613px;
+    }
+    .about-Ludmila__expirience__container {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        background: linear-gradient(287.01deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0) 97.57%);
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 43px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .app {
+        margin: -5px;
+    }
+    .circle {
+        width: 130px;
+        height: 130px;
+    }
+    .circle__title {
+        color: #FFFFFF;
+        margin-top: -13px;
+        margin-bottom: 50px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;       
+    }
+    .education {
+        color: #FFFFFF;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .education__title {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;
+        text-transform: uppercase;
+    }
+    .place-of-study {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+        margin-bottom: 10px;
+    }
+    .direction-of-study {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+    }
+}
+
